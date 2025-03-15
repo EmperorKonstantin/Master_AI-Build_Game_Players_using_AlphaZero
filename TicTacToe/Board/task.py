@@ -62,7 +62,8 @@ class Board:
         return self._num_cols
 
     def has_valid_moves(self) -> bool:
-        pass # True, if at least one element is EMPTY. False otherwise
+        # True, if at least one element is EMPTY. False otherwise
+        return any(x is None for x in self._pieces.flat)
 
     def get_valid_moves(self):
         pass # Implement get_valid_moves function
