@@ -1,0 +1,63 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1592
+        length: 48
+        placeholder_text: "# TODO: set grid_position with click coordinates"
+        initial_state:
+          length: 48
+          offset: 1592
+        initialized_from_dependency: false
+        encrypted_possible_answer: WTaDS86StNwxh0o2xqDiFKoSN+A2EyRxZBGdJeYUihQyh38+iWnFXIADn1yKkaHn
+        selected: false
+        status: Unchecked
+      - offset: 2051
+        length: 47
+        placeholder_text: "# TODO: convert coordinates to logical position"
+        initial_state:
+          length: 47
+          offset: 2051
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1eFto18OFUg1VI94bBOMHhIGVzHhm39ubJzKwDN7a1AHzJvwvTA/s8TPMTckpdxyp3qH8rjvWz/e8gZlCKPUDdKY/+e9VFlFp0qlw30ZQxnbDkWYCGhBqcBiGXAGrP+MnA5KnupE9aCJInwCbK+7UnzEIopt+fdHLT8ds7/yldJcHy0Zs/BZVyhIG5ROjFa8dKES27fyNO1ydcvTZZQ/8A==
+        selected: false
+        status: Unchecked
+      - offset: 2315
+        length: 39
+        placeholder_text: "# TODO: update board and perform action"
+        initial_state:
+          length: 39
+          offset: 2315
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3wpW4X7sbRQcfh9nvPAu9SVBccKFxtV/TcBvJCHfsx7NLccFR3opbEz05CeKGQqSvaGsasACVKUKy3bfXbJejtPq41X2RxPXbLDyp4Kurix+A+rxOr6ipf0hCDgZbj2kxTbuULiR/L4Jd5TVds3q76qb+RZQwxu/7covHKyq1wocZ4P6CcOov6Ex8rGQrtl4aUIRSi/ehyG4es7Jh6Kpr1+Zuy+hsx5dcYcFy7LCZ/skDF4HnXHuCeJpCp8WVucJ
+        selected: false
+        status: Unchecked
+      - offset: 2712
+        length: 58
+        placeholder_text: "# TODO: prepare edge_data and player_data for the response"
+        initial_state:
+          length: 58
+          offset: 2712
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3HCyWGuNdzNDaN3iQ905kIq59x0uih5qDv2MXCQ0sFtrltG2Yk0JCphTHYAj4tfSeg3uTi5DXIFKnyIA7NrmPFj3ShHIBChisDD1rUADiZLnXZT9VZDFe5aL5YE/LJIrNzeifhFPGip/q8LGSLTfIG8p6IiLKzOcJ2Sdh7MNfNlnSgwWpCHb7rLTd1feHppG1P5B5ygCsJOLdpcJU6c4zrRxeeS+eThRL+Gr/pYpcMkoqh7F281cmLX6wKt3Fl4yLIW7Nq+o6Fr0G3yR6j1gcX+u23o1g5jRPPsGrh25+uJUgZYcIog8uhx6IkXgVqX1R7zGUXG+2UDhotjNbg8P0TGZjC+LUSqGwc1Qj4PtgIaBPNAPzzefFLD/KoxLU6T7ZOzBPcTwLGfjH4KsUolpZZDca+5gj+trOENwNw3kGEcXft3beQHwsv5j7OxzrTUHZAXPYfiR5CvzQPOSP1xjtkZaY08oQYSOCxDGTLNq6xdDvWIsaRvLP1IRIk7CwH47I6Zt/MEfq1IwxdXbAKD55jkfC19UW8kz/yH7HDQlNCQV63k17U68OLnnQeei8iO/pShpB51wt5f9Ta5Z97edKl3UiOO7RcPnoFFvEMRbpNXFQVInApkjzlrrIq8xPGwhrMpkxasnBUdR3iwI+whYTLbYm4LS6NDnPCzjgVBuzuFXFnzSr4qGqZNcE5p+zrEtESVNJFnJ7AOE8sjPBuu82KZpthr2LNki51ftzqFLGjOlojZd3ko9Cbe+Z2NoLCl8V85RfMbt8NYQJ1k2SZw8n1pC93+WvwtFdhU6n4DNkMUixFdZk9X6Fys0Q19XhOxNmA3u6F55bif5oiETcqJRYCBmSU6EOaECofN9h64x2jGF/KYbFOSNOwwfKzSz0C8QF/IOQHcCbLZbnEWi0FwCaaP7OlmfBIypd1Jj3VFXhh6HLKvHoqRHnGGrRlbLrWz/fuydSfpxV+CwoWiN2TRIL8FrkdVmPFhswJK3VXDLYUJASVykMjKp7uchYoYjoFt+
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: templates/index.html
+    visible: true
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

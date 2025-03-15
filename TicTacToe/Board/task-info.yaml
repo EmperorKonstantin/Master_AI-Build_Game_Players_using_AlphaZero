@@ -1,0 +1,100 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 764
+        length: 45
+        placeholder_text: "None # Create numpy array with EMPTY elements"
+        initial_state:
+          length: 45
+          offset: 764
+        initialized_from_dependency: false
+        encrypted_possible_answer: TFV4M30JE7ERmNOI7QS/YWjpHyRxJfRK3Kall3hUmL/bQmWOj+rh9hEYutjwXblRPVsM0cp7hQUN4RBs2ol1qg==
+        selected: false
+        status: Unchecked
+      - offset: 1310
+        length: 24
+        placeholder_text: "# Element with i,j index"
+        initial_state:
+          length: 24
+          offset: 1310
+        initialized_from_dependency: false
+        encrypted_possible_answer: D/GkoxdyFFPpXP8CgCHqr3BbqcZe9oz9lV9SSnXQwPw=
+        selected: false
+        status: Unchecked
+      - offset: 1406
+        length: 40
+        placeholder_text: "# Assign value to element with i,j index"
+        initial_state:
+          length: 40
+          offset: 1406
+        initialized_from_dependency: false
+        encrypted_possible_answer: D/GkoxdyFFPpXP8CgCHqr5VWFvktuupMOUmGC8Uvdho=
+        selected: false
+        status: Unchecked
+      - offset: 1703
+        length: 62
+        placeholder_text: "pass # True, if at least one element is EMPTY. False otherwise"
+        initial_state:
+          length: 62
+          offset: 1703
+        initialized_from_dependency: false
+        encrypted_possible_answer: SGZ5N9KCKTf81Pte0L5QczFsO92rvPcnav/u3b7KXe5d2bLkm9R4DnJBtn5PhHd8l8mp8d8qWsGHiSyj28DaH5IQX17iWseZiWJUgopqJ2NC8XFyptW3exIDGtmBuQcs
+        selected: false
+        status: Unchecked
+      - offset: 1806
+        length: 41
+        placeholder_text: "pass # Implement get_valid_moves function"
+        initial_state:
+          length: 41
+          offset: 1806
+        initialized_from_dependency: false
+        encrypted_possible_answer: QT5dW2C7vRAFgGvVNlhNeBPp1F5M3Fz+PpEoSSxKn6WNObNen9jZx6sJqWCSz1cCC1KlTQBAqeZLNUUvBCdY2w==
+        selected: false
+        status: Unchecked
+      - offset: 2009
+        length: 32
+        placeholder_text: "pass # Implement is_win function"
+        initial_state:
+          length: 32
+          offset: 2009
+        initialized_from_dependency: false
+        encrypted_possible_answer: VUf8QVKTimqXZZFKHlNpImRxzkwo+JA+nt+OGDNEQayVWhE7AcvSP7ztiviqzKRxAmLIvXamsysMUu9Ur7W5AtG5isvEk7LMsdgYG76EVqf2IbU2a8/lV7jV+IIFDzzQhTm0igULkREAScGMHyvPWPeMwd8ecJNUTeML4jCkF5n68cvWoRua2Ck0ywgcvDwIi9Af5xGMFMAqj/qOuMwSrnMGwkAiFriFSzr8xLmmu/36heslkNNYfqF2Ey7HotZxVaj8wUL0RcruZx00IYr456W4KRf12Nypq5pkUHzX3+nRYk0kya7pBcZjv9MIRHBdQbya5iYEJHW0E1RT054um76ZZtfPaClokUuMTU67E3pY+8/zv802hH4mshxoMqwIowrKFtnuZ6TcYfSCeXPra4TVXCTVI8GXPk24u46AFw4WGsCwFQfjmx9YsiYn/TGNYgIoy8oTahw2xFOK9d/6k+SdsgMrebhkQMf7nniyzaefSzCfLsby9vuc6WmXVQysKN4WTJwsyLsAjBgMFiOesQ1/Mb53PXfbZqNFDp95wuQ5Ufp+YBCv6XnESxn5W5AnBc+1jmSW6pLmPLW3J8n0QYPDTC6DmscCEIO5duBsQXHKQQ28krdO/8/XjCqWLWjpTGv3l0TiaYN0w0atJUNL9w42b3aXffwOjB+4wK9soHbIEXR7NOs/Z/rUzfBwws9xjTsIoDg1oPJjaNgud/Am4RiKYhsmT/YC4pqr3WZE0X0QSuktT1uLen/JtkiT7eOQ6yR3YhbpEPKBr4HgjlMdFDUHWgRu37NmxwgDCjja2TjeJUyMxwulCYm7bo4WNi9NnU5Osjyz5iCKGHrbzjFkS7xyGgWKWWFU7yoDMXCm6+zcFwshPTg2e77vybV2wL0/TnCVH6BIiYyDVPkcVrNHEHqYtEWD45tV599P7I3Co59SrEHd/N35aAac3q2Rd+namA0NaPnSMu/3zKy16+4IMveDcS18ccTknKWoaPNohLMV0+wtrudEW3Ng2Zs0oDQb521DU+gUxQnizg4Vs/7p4n8M8jIdV2TjXKIbsYVlhUUNoJq3syom0Ko7aNfEUXAYSyzW5iGspY29ixyIHyzDBH7kkeax37dymlyVwi6rSta4xzn6gRZTDJBI+5x2MzOjVV0w+pZnk4Psvy21AVL3g0B/Ti3+KM1X98QB1g8jXHml/GxWzbZeDXxnuCLhQ8iPG0GefbFIICjTzOAvBoqavjfazEJX/BmGCfgCNEhU6Zo1vzTJKJr6d4Kkcs+293wRAHzB6jHc3khDxmGcTStarphBw7EQ1Yi/M3O+aCzKSd0knpTHXL/1lSL5DPySBGRV9X4P0dAlozwxKHl7tAHoo9oN9FM6fTiPpVBSkGQI7xCLzpfu2ovb7ypKoXHlcalnre2Kehau+tEr0ldi7T5NOFZG3xEtCWGaqAZWeuPQG4Wf4duhGMVSfQQStyRquSCz
+        selected: false
+        status: Unchecked
+      - offset: 2157
+        length: 38
+        placeholder_text: "pass # Implement execute_move function"
+        initial_state:
+          length: 38
+          offset: 2157
+        initialized_from_dependency: false
+        encrypted_possible_answer: n8BvmdYAUajrB1rgblKmJNzqPAWw7mhS4BTnbEaFCg+MIi20qXaWuRmYqoAclnMZruH6j9B6Xw9vSvBIgUKqNRRR+VieR48VtE2jQp9lhxKBKS+iMGpYqh/QqqBr3MwmtHi4pS3/HBTH6pDM4dxaBvp7JT6SUvr6F4NiG7vjVFU=
+        selected: false
+        status: Unchecked
+      - offset: 2724
+        length: 33
+        placeholder_text: "None # numpy stack of three masks"
+        initial_state:
+          length: 33
+          offset: 2724
+        initialized_from_dependency: false
+        encrypted_possible_answer: kgR1OIuZk54/DD21AjZXlUJmtt7XMQ3R0PUzFFF9fhCM45cGBTTZxBaCCqpDxsIsmf+qYSrpiWClzfrVTFDHiznsohePOc/jiB7XaJ8ADZpDxQi2e6qF51Rb82OCOt55t+1qVgp2jsZ094/EV0zBKL1A22oay8Z3ZjPHne0lAnK9kJ1Nyf+haOBin8c5k8JO
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

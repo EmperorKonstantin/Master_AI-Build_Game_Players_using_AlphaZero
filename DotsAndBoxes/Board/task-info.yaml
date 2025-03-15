@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2284
+        length: 47
+        placeholder_text: "pass # TODO: implement has_valid_moves function"
+        initial_state:
+          length: 47
+          offset: 2284
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2FM34eBU0SwXDaLcR3y1lv3SnBsFG8PcSCGCm5bTb6aZJ5PO1b2yF8HWelhkOD3JTsOlVV1KteGZaUszEe/OmwDvYi6uRsQkeiTFmV03RFFyh4RRQBpT3ZY0cojJry8NeyANpBHeEa4fX8GGNNVz/fdogYfA2RdYc0Sp0Kb3fouHayRH15Yg2SGF9QwHns4a1lcwLEg/UJertMfB8MZIEycQpLSo5d/o/yrGUPQvcmQ=
+        selected: false
+        status: Unchecked
+      - offset: 2414
+        length: 87
+        placeholder_text: "# TODO: calculate mask for valid moves, taking into account\
+      \ the self.is_pass_on() value"
+        initial_state:
+          length: 87
+          offset: 2414
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6bfII4tunRDKjkiRxvhRULerfCx9tAiiL9cfslMofrvWK3DiGQUYeHr7irHsYAGxmAn0FewwUqTBI0csBKQmV8jSGXqT1/F+a373S4+Dk2Mf9tBn1rfjtzkcFyGSuhK3kdJXpwV+1w98JLQUr0bcPT8s9jyn1f1Gp58rUIXjNkIjWxSNObp9iwX4176iL69tGoJt1U/RCjtpe4ACPKpUd1vLIo/a7wK+9eHzRRzIQ4q33+zfdN0qnCgkFy+7s0HPbdnjM6CfE7/8+v0WQrwujnabOFAUIbmnk5lIuU55f9KYvrmjNZIk5tnhtQJlfjosJXCeEOF08vQazTxcns80LldcYZp2QhBiuMM/qkfk3y1fEZNBppQABJZYzO5dyZw7Mn6z+tFsyquVU8gkosdi9t6GaNSgtgGKzOQUi2xf9ok=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

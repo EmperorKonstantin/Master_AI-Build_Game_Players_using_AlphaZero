@@ -1,0 +1,24 @@
+type: theory
+custom_name: Train&Play
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: models/optimizer_1.pt
+    visible: true
+    learner_created: false
+  - name: models/model_1.pt
+    visible: true
+    learner_created: false
+  - name: models/optimizer_2.pt
+    visible: true
+    learner_created: false
+  - name: models/model_2.pt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

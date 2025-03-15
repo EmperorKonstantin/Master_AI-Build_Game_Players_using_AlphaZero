@@ -1,0 +1,52 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 147
+        length: 31
+        placeholder_text: "None # Init with Board instance"
+        initial_state:
+          length: 31
+          offset: 147
+        initialized_from_dependency: false
+        encrypted_possible_answer: PlnRC9PPHfiHo5Hchr6Jug==
+        selected: false
+        status: Unchecked
+      - offset: 481
+        length: 106
+        placeholder_text: "# Return 1 if player is win, -1 if -player is win (that means\
+      \ player is loose), 0 if where are legal moves"
+        initial_state:
+          length: 106
+          offset: 481
+        initialized_from_dependency: false
+        encrypted_possible_answer: DHlLzUxw70nMcBOkJJ1r2xaO7TmJDOoOQFe+iFvr1FeFnygH/44QfKxiUcfQR+cCff7fq4/6BPcMI/1oLoLVVf/r2aX6y0qD7MdSUU1+IitsARbuHasYGhfOXgPqshkdPhcowkDCiffEIR4TXJuTjFrOOWHnBSVV3gKXD5Xu3nKhtm04QuFQTJgLgVo+GtxY+xQUqNVwBuZ6uanuwvo63w==
+        selected: false
+        status: Unchecked
+      - offset: 1081
+        length: 79
+        placeholder_text: "None # Change 1 to -1 and vice versa for -1 player and save\
+      \ it in changed_board"
+        initial_state:
+          length: 79
+          offset: 1081
+        initialized_from_dependency: false
+        encrypted_possible_answer: mUPED9NdxIrDXhXccH8Y3z4nLTQl4HAtAtqTMQ8qwG0Fh79sCl/S6+YFurYy53IfRPde8RV76dt6PN4smW+o3/I1ncXbVpbKYetuwW/O0OwM4gm+0+L5w9baZi/4T7VO
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

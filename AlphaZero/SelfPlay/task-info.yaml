@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1271
+        length: 66
+        placeholder_text: "# TODO: calculation of outcomes to form replay memory for training"
+        initial_state:
+          length: 66
+          offset: 1271
+        initialized_from_dependency: false
+        encrypted_possible_answer: qAlr3Pn44e8F0H5MzpwnKVky2e9mLXFdHYezAReS1U5+V+6H8eQFxQGz6yk2rZY1SU+HUPLQkPFZvDublTtGfXic9oXdT5epXT3SDiULaWzh+GXF5f4m+5okICwcBr2x36tF2ssIvIRj4Wb56Qdq5I5N1xoWWq6RDW3NqCJaoAKLc2VChw4/ncI93sow0lSupTkkKOioKPx3R4bot3qBQNJqiP4AeXinozWDpARtIaNsr4ypWTBzS2n6WS00CtAg2NYxUkPZkgkrskaFZ1ZyhsHtLkzLkzmcsn0kKT62lIDfeO5RX96FJfeMZMiyjFquaX43M37DK+5nikFT7yip4x9ryvOCst/kmQ8Br8uY2wpYza35Jk4dZffSvRNoe4oVWF9owAoedw9Zk9q/aY7MptooWQPye85fO0orPOVfvZnktSFgURs70ZWmLdJQZKelUfqZt/ga5JkAtcH+7c5QyxlFk/PWSwswe7g1bjrWMM56K2NyEfp/t5x5ydmOvSWH
+        selected: false
+        status: Unchecked
+      - offset: 1702
+        length: 170
+        placeholder_text: "# TODO: implement learning iterations, where you need firstly\
+      \ to accumulate self-playing results in replay memory and secondly use them\
+      \ for training of next version model"
+        initial_state:
+          length: 170
+          offset: 1702
+        initialized_from_dependency: false
+        encrypted_possible_answer: QnN7h6jGwFRwwohAjcbxZfkIpr3/lsad7wxF9+5fQyWtXPJjzW7Ea3dxzO5snddxP4+l31NMGvXJtUZpxjiG1+w77+VOwz2361lJi2tPnNhRurKcyl+DdcSjpFSakQxwVE0tNmzMNHeqzZpeDPNLWvnaowOvCgvcbsdE1h8eidwXuyMU07xgLZ88mZszEFqOQticR82OKt3poTHJOxtwIPfRSQQVVYHKAwJi9pHQ4tsM80WrQsI6CeC+J45wRbEsCXx+RDs0SQCRFjD3BxtvkPYoQgMw9mn95mOUZhuInVaCT8MrWTuG09GP5ZVRCnIdaNUtn/vWT0TR42IN25ZCBw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

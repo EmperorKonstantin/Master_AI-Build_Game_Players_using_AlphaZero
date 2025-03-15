@@ -1,0 +1,46 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 899
+        length: 44
+        placeholder_text: "# TODO: add action choosing with temperature"
+        initial_state:
+          length: 44
+          offset: 899
+        initialized_from_dependency: false
+        encrypted_possible_answer: +1C7sEYRRBaHjOpQcjDQ515Lgqh/OE6HyGWrsNYEYJYPW1GbJXfxhOzkAUSDToSN0xQ98ITGVKtt33ESw8LctcZY1wiqX++wMM9VQA8aSyghayg4nwjWpDgYrDfqA8XGNp5gTdX/s4LGW86sAZUULHAsNgnKXeR8I8cK4ADOlOx0gZ/BDTJNqZmV6n/pELDSG3NsAHLxI4rJqg4JWBayXn5mf9X1NvSF0c7Et0z7QgyNrH91r/Xz91OZDGjycPzY9vDThNInzwQFpsu6l3psEICD+UNZyZ5p2EFDtbGHjSkyz+rnfW5X4SjHS8Wxblz+vpTweRM4ySic2XzuYt2smDj2rryprHE53h0tcwaP0ijV+JY5eAHKoMVP87svCHKJsxjd/VRf0MXbzvMQoCfoHVztzb1kunP+9kaPHNwYSFbl/gP3nXlRMy7By04IUef5QcPSrtTiDp36+Qor1GL0dINTieZ7upCxNzVdMpZp9Xc=
+        selected: false
+        status: Unchecked
+      - offset: 1697
+        length: 31
+        placeholder_text: "# TODO: implement training loop"
+        initial_state:
+          length: 31
+          offset: 1697
+        initialized_from_dependency: false
+        encrypted_possible_answer: AWMuNJM0az9ZB5bkmmfPf0c2sOVj0u2DObi7Z8aFQ7rLNClJnZj8As6VLhVu8dEQlXaY+fvAlZhik+/OgO0UybHBTRB+kSJKF+6Bg9IUyppInJDcA+Y2bD8lU7s1GSbvOuy5TLpeLCgrVlXZrhh2mkHH7DdSWIMek2oUwaZ67rPqcNMFG8T9GCRe/4K2vZtnl9QZVXTv8csXEa8MWQk5jx+OByW9g7h5TCYkcvDiJqC3GHUL3cNwKN6rEBybyu+hb9JKVYt1ud1T43hiymjF0328QKURW2RVkQvCqTjFNONfOLpvngBcgg5Kx6K4ZGaPoFbDApvss08mNGcCU+WmgN5lYLkVwK/Fit3fYvOB+KHuzaR/onzVV4hCHBH21v15/gvwpl5lIFci1BQNwG3RHdq5jG1pJA/U2TeV/5kH1rUBr+bPR3+rrCKihl7+posSk0tUwrQSE91i6YjZxClKStAGQBqQFjwRAJFPoFxdXwqmbMNRwxiBJlTEzxlH6W9y+h6iD7dIE80LYOR6UoUDpRFAvrLOV0SdMcuODq7MLiyyhHmEa/IBmBSUVx3XH2BEMT+eNSWTXVGMbb+pfN+UoX40iLoj3EDvseY4DvdNrBWajGNx1UIaW0Y/1uVll6x2aINyNX1mYE4xTH+Up+M2bHdKEVwSaPLLAzcbIfW0RPKH3DPk2kFIyxVeP7B42ZiIEFjgn6VslDeNu1dSqyIFTi1jIE/i+ALXB2tfqnxP+jMKSD9OdRZJuED4hhUOA8F08Nf3dXlFaINQtidP1Y323mJZctM4PJMuI26tvDN5jtf4JmDu722Tg934B1LDreH57h3HFFqpCmhV9GfVNAbPwb93nBS8fVF7j0UIfaSMTPH5/6SoBVlmuZ0l/hlMrmuboBYlbQlFaCSIyIjkTKUiT58dVywjaGS+j3EgN1ZgXevmBS/iGkXiKFanhCbH0eGuZBkdGooTIKeamEIi+rgTf8CsUyaSrTP3AuP1DMsAo+4xjKudeIVevlYFSzL+ASJFLbnSaX6++AfJPkJprS+wu2h7HvjWbYV4n7MPFMiMfO2NUPDpdQt2W9RQKGyV6QJ5cS5mV9m0jzRaWPi4IE1JW7AJ84KRKfaFsdy5pA0XZTvMHjedIhDvA6ZU/6TK2NVvaZ2ExkO2xc4CvzYcBhAlqwlu0zaKLltlU8RsKZrrraYK/pJXBuJsHcnLJRuE2TnL8Ptwk13xRXEWhY3rSTiZ2Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+  - name: models/optimizer_2.pt
+    visible: true
+    learner_created: false
+  - name: models/model_2.pt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

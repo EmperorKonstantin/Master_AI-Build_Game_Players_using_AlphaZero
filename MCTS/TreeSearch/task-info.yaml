@@ -1,0 +1,60 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 352
+        length: 57
+        placeholder_text: "# TODO: call select method while node.is_fully_expanded()"
+        initial_state:
+          length: 57
+          offset: 352
+        initialized_from_dependency: false
+        encrypted_possible_answer: FTc50qDHW0mQz3/5kpWW4fV4VApusJJvy1OtOooDVYbGpmt8RRaJbHyDdAdLYWGyiopnBInPGAZbMEnjNo+Em0u63hdrhH9/kMrivvTFXjk=
+        selected: false
+        status: Unchecked
+      - offset: 730
+        length: 24
+        placeholder_text: "pass # TODO: expand node"
+        initial_state:
+          length: 24
+          offset: 730
+        initialized_from_dependency: false
+        encrypted_possible_answer: m+v3sVsJ+9GulxNaKCE3OK7DOOcHbwfmJUUn9yi2k0M=
+        selected: false
+        status: Unchecked
+      - offset: 800
+        length: 38
+        placeholder_text: "pass # TODO: get value from simulation"
+        initial_state:
+          length: 38
+          offset: 800
+        initialized_from_dependency: false
+        encrypted_possible_answer: yMei3YGmD2Zy1pfuCCuQQmAFvEuUsZgpAJa+I1WBzIk=
+        selected: false
+        status: Unchecked
+      - offset: 881
+        length: 27
+        placeholder_text: "# TODO: backpropagate value"
+        initial_state:
+          length: 27
+          offset: 881
+        initialized_from_dependency: false
+        encrypted_possible_answer: +7ZAT8xrng4oKCJzLFV4SYKc0gxSBLSddjj14utUuqM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

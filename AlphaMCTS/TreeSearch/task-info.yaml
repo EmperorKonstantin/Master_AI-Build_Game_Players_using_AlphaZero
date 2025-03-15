@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 712
+        length: 95
+        placeholder_text: "# TODO: given self.model perform expansion with the policy\
+      \ and backpropagate with value from it"
+        initial_state:
+          length: 95
+          offset: 712
+        initialized_from_dependency: false
+        encrypted_possible_answer: G/0z30z1ixe7H4tUOVtGBy+wSdf0qWP9KUeOqmjbUrYS0o4YP1AIOFriJuCyTQA8XGJounNIAw1MOS2G96tTn9KwLGXSz1o1kQXaw9Xn9nwHVmVFnhF0Xi3+qB+nqMIt2EF0SqB8KwrIgiptUWqwkxvCv5eNo4OW82lZkS4dPa5mjRzws0xHMVHUinKqK+/9qOyMkYauzkwcWHuZ1Xhq+CpJGKKzJqF/NAmMlf6nhddOEhfWXlK08AauXorIhy0qF1bIdx+Z/MkFXHuKSCh0LQOfAOEOwCKM9MzT7lD7BE7KUbpaD5oYDo79LhkxMQ7mzLyGXZ5LTASTuclB3uWuDihzzqkC3I5caa3WTAqupXCv2aAohhiG7606SWH1dGkMhB0oY2vw1TWceZOuDuyS0p7PgqEmpN8o7PubeFPElc4IHVe4CR1Xmi7WjWqU8/SsJV/I52Jc68MyQoGOg/0XkZ/0+lSdoskApLCHSm+0tFkscbvLW8aTdkKCQmzeS3XUQCLgte8DlZqHVA4vLe84zLeDUhC6ELWmfG0MWy1W+pvp6sMWwoM35HDji9sBCDz3OjxFPpLbmAJP5laWhW38OU6qsm/SK6/g9LfVvNuvsCRERj0Dnd6AYkkLQDc4tKoalMKW/qzEuZOdPLP+VFGgwXHmtXFRYnEFng1quuBEDX9Mpg9j1kSpXbGSHDr7toEKeKr+rBP3Wa0DQKceuvVZiQLk7klWqi1LWJrCZ+lccUm5qCR2j5jSxlc0Y+XO8RJ6/WNbex/z0Wf4CLT97Tkzf/cgFzzrzNgNzcSRS4ArrU4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 336
+        length: 91
+        placeholder_text: "pass # TODO: implement the get_next_state method, where the\
+      \ last action stands for the pass"
+        initial_state:
+          length: 91
+          offset: 336
+        initialized_from_dependency: false
+        encrypted_possible_answer: +c4uqnbECRJXvzGKqEU8wKSyNycxBUg48i390Br+lCGrO5JT6ZVqLgOJG2+4iCQ/mETo8KB3DJKTujMJxV+bNOS474bXRNRBpTeREy2Qnp9jwOaISuQD8MbwXi6GAsejS4eynxSVcaES3/x/QLVLnlDPAd9m7WC09ixGji+OPwLnUum9tz4S7JbA8cgb/rLUSuDixooVWWIbF2HaeqTpcAaUziGFz42W2mZsk0yhvIg=
+        selected: false
+        status: Unchecked
+      - offset: 486
+        length: 48
+        placeholder_text: "pass # TODO: implement change_perspective method"
+        initial_state:
+          length: 48
+          offset: 486
+        initialized_from_dependency: false
+        encrypted_possible_answer: cYGPEadhzSylxVqnOm9NdRU+fuRmrln5BeAMTwZ5QtJWXQ0HnoA+whzUoLbD53UrzITNs2rXrYIDUsRK2Bwm5v5O7Ls+jH6qyAdWzUg7/x/SAY7/tmFgAZne5Qlmv7mCQu5+Rx54rJGtq6UGusM75iPa2rXg/xuhmU5XZa3+UB83xwyjIHdNpA0kCHq76+xM9HMZVgWseD8yoaFT60MjFvJxznG9dPJVNTS2kpKEwMyvrsD7f3IMVI/eOTolXdG+1H0f+rbtqFFZRfIWgiD6Nx4c4M1sRcftTmWBeexwjZ1rYx44+5Gu5Oqi5oMDlKOR/h0bwMHGF7OmT6gMOxQKPlyYPOn+j9C3T7Nm2s5k29NKbc8aA2HSBzTwd0SHvV9DSNLeMALljrtYQbprmaZVkUvy+8WYbWywm++dpC+lGQ7kqtG//EMiQb9uvFCeDKPG4xPREYc34jrbZt9Y5T6//A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

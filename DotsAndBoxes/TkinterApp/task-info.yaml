@@ -1,0 +1,40 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2830
+        length: 34
+        placeholder_text: "# TODO: implement make_edge method"
+        initial_state:
+          length: 34
+          offset: 2830
+        initialized_from_dependency: false
+        encrypted_possible_answer: RW/qzla3Cl6zuF0GdjQE4hAqxZ3AEyhqCOmoF/H0kjg+ldgQsf+57wH9jizec2x4KmuHyi+JV3gVhTH+y/ynIBi0pgBS2LlU2S5gQ9jGqJV3WjzlIslZAUzj7JXw1BzDQYdEnDqi5WCSewC7MAl7i/wkQTP8W0MhygkMO83hG8E879wKSNB0By5UVMem8nqPO6/HEcOaJ3LSRlYKH3+8+Q2hPbM1BlvwxvgKY+wjR/t1TU50fsZIq1QxnK/sdlGwVqxSsq4Pe++B4v/R0wiT4ybIaAlxBOEtZPIH0oWnVITlED6lXqXh5i4kQTdidc7okAHiJoL7UVUyU0eY12F5kvb27IkUPAUWBGBJcstuMXNEKHpkX38j5IGXXqKSX+dniQb8AOfqfE0Mgnfmb/BZ2z381/c56Fs29nf/Foc0mLnRYOCcArMU9VbG4r/zlfTrz8HGL/ODGoGiBduQtslz7UpDraaovCaOXBj9q1x0JdeVd7St8L1i/R/UKk8VBUnt
+        selected: false
+        status: Unchecked
+      - offset: 5954
+        length: 47
+        placeholder_text: "# TODO: implement logic of handling click event"
+        initial_state:
+          length: 47
+          offset: 5954
+        initialized_from_dependency: false
+        encrypted_possible_answer: nlvwPlWpcgZdvRvgIxPDKQNbpYjU6nHLNfuL8YtdnUogcyGq6WgzffzGXgY3IS/EVIS3K/nVD5cjfIzKK563WUsKyLF6wCJEu5L6MlUJ/s/fkX601HRYazDC1okIXItLIP0+sNmn5BO72cIR+GotYqXKqD9fPp5HoAu0FEvVkpTIy61iFJfU2wsroekw/qNGwWJyRFp5h3TEBJLz+4KIWVEGB64C02mDU0mWwUEhj/6JF695Ce2k7obf1i2aQqnvn7sxkr9+l4wzSAsO13QnYKq/iZEOqzK2u3bC0nTgztua46HNjsC+h5NtMZ+ulbym3j7b6nDzExWI4XUwvrlIHx4pDxlWpFCNUDNUY762pg2gAoF8eITHO4b+a/PIVOnMOqtr4hkaj3PWpXCeNiSor6z/PKI+eI0jh5BAuBHqs93iJm/uxI6yt635bft0pyOXY5FGwL0DH7LZhY27Dqw/tOhNbrG5hZCdkcg1J4gizQH0/b+eX55zUsRXVuVfokfHIRAlpsKDP+zFa0k7KyqCErDNO84MQVBwVupmXOumOE011r1P0hk5iuV2gDOWZ0VdM9SCCx2v2ZzIFoAxW5ccoF19b1BzXsG1HJgkztKu47MTW5hcWlCwx/9sjsJyJU2yBPlSrb8eGu6YFnoupSZD4kwf26GRjprovDF7hTKX9gS8/q3679PQC2S4LikYvzWdlvpB6PRDcFaQcRqM7ZppadID6QLTPoCM4DW/a4PTa9fMrAzZq0gibY3ezO8st6tyfkXbxn/81asg7Pd05CNv9mwc0BSC2NbW9dYhpDtL493H8fS8wJwAwAeVnbb9XrgjQS54Z8+Ao6clYYYvZD8qYKAIxbV5ZDuYvVpKrh3QUHiq8mQeejWhwcRJTuh/iXNckwC7ddK0DTQJabTQRiz6AzWgc54MHQuyZR4pwfX3ZnUbmAS+gnnG50okEFgSYpdjQ73U2E1PDit5gngEdx5vBrlyDzSz/IyL6W48cCIS4StBNbxszdiV8KS3iViSllLLQCQ1EV+1QtWYXkYxe7vgoyO0TS2LzpyJsN7ut6KKgIIum5pmbUlJib7parqrf4AB6cHEZntT0PhLP2HY0gK9Wu1DDEbcgToFyIgtUC8mnAr/EEt/1kKqCs9mMs1C4G4d3hI4v/K1mpzza0SfsrqWx0Sk9IbdATatsQ2L6Y6mZpthTyB80p+hFd3zlrccZq4gnoYEt8AoIrWaIAAW70mQjmEbfdnAVwqihCdMh7D0NTLNZE+LBqsnX63zBy2YDc9+WKbhdbcH2VXdSDhWE5+WgiDrz3w9D8qosviZe41CDWUdUBI9+pRUU9je/OinyhyMNlTEyBCHqI9SQK9/lzD/gJM0pTAvPuGkr3DX24kTxU+1cTkA83KJtKEsr1vzVvLCR5xr3KGFTk3qHWCISDnCmkPkyFFU9zYTgmffJhKxuoF1j14bmLCh+zZjn4LucL/4mFDDW8Oq8Agx5B3QBEAVSNTJ1yprn0Uv1rXiGjHAbCGeaiQMrUyIHhN2LmwB5S6K1R1I6+WGq66N7SdEBkF6hFsvcjGGjhIrD1WNoAxyKQRAJHrXD/m8qvCYR/ADrDGuRZ1m9U6XD90Es+odp771b4oFjVpzjizfvovEspiooNKAObmx0STCY3tEeQlFuVaK
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

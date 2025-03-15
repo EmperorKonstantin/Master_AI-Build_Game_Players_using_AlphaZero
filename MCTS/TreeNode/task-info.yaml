@@ -1,0 +1,90 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 691
+        length: 49
+        placeholder_text: "None # implement calculation for expandable moves"
+        initial_state:
+          length: 49
+          offset: 691
+        initialized_from_dependency: false
+        encrypted_possible_answer: l3KcFrqZLf4iRrfafJg7+6wTDHrJAZ+OQZPPvkAYq/8=
+        selected: false
+        status: Unchecked
+      - offset: 1082
+        length: 34
+        placeholder_text: "pass # return player for this node"
+        initial_state:
+          length: 34
+          offset: 1082
+        initialized_from_dependency: false
+        encrypted_possible_answer: TtjwOEYx27Lbrww6jrmqiOeCpkm4CC942guEV1MCWkF5t2qDSsjfchTw3k8NlPqBIZNIxY6YxaeZNqoRqjRj+nlggGYXthiTtgcnFuOH0+qOj/yCLhZoKG8RlWQ7zz/m7CkDSYckByg3XtEeL+y1y1lSjXAkox5OgvGaaIjMyHKsSuP3k32zzZZcoKytN2/92OsrGlrADOTuxJkLBBhXdcIs/LkTfAWNBNcauBRiGaky2s7OcuwbnXk5oyC51bE+kQUWzinseT/qEq1yvBuknA==
+        selected: false
+        status: Unchecked
+      - offset: 1207
+        length: 42
+        placeholder_text: "pass # check if the node is fully expanded"
+        initial_state:
+          length: 42
+          offset: 1207
+        initialized_from_dependency: false
+        encrypted_possible_answer: W2eMqMle2Z83ZFGCxxXc60ASOcrs79te+yb7xBOrKpzOrr0fwP3TYonoS+4qOs02XCV7PoioSBskX//JPwDG+vFr2NOd1SruKZrmOxqoWnY=
+        selected: false
+        status: Unchecked
+      - offset: 1281
+        length: 46
+        placeholder_text: "pass # return the best child using UCB formula"
+        initial_state:
+          length: 46
+          offset: 1281
+        initialized_from_dependency: false
+        encrypted_possible_answer: wlkmyceLlj28INLQMUAZ9GPSO5pjnwsr+G+N6mDxAHb5LQdRTHvhcvrOIDqRCLosGwhaHkqkABS/rYNH3DaDGOEY4U3SVfpZpWrWjkMzYWUItDPIBOitZNmof4/9Tm0Pcf8V2FWD0UB4EZGnJIf0VLYbfk+8gzpFGxboCQQjAc7kMbaHRRWam8h1IaWdvkHVoFHVW8uN7o5S/YeRVnw+7iOh4NbsqSUyqkP4QSZKT/8C4KvI5gpReYZFkOjs/WPDkjqIrCQ9p4jg5HWD7F4YZ8gQaafzvS/QRfda/UEPbygnQu3UlNKhqcVfzSiUqnBE7r2IBWUi++zvgGbG+dBwTOLLSSK/SEqhqhBwvfF+HOA=
+        selected: false
+        status: Unchecked
+      - offset: 1672
+        length: 62
+        placeholder_text: "pass # implement expansion step, return new child for the node"
+        initial_state:
+          length: 62
+          offset: 1672
+        initialized_from_dependency: false
+        encrypted_possible_answer: vL+qQMPRsQWRxrAQCNVT/LvLXdGXsnlGrCbZNerrqgwvM2CdU237lnYDz09Qd9P6yU5Ri8ugAXwFuc5kqdXE1HpbZ7amxVO208rUftOqeaIZd0ku3GYbAdUm46JY7lYDhKWwNAgkBU8c4/SSTHnSVPazfvZNfnn5qm1Ad1c6xylD/kaLnB4nmnUmJmEfZthGZWANT/zdVp+G2LrPn7Djri73VMSy8FtOfaobdd6+uyltJ7yVCbhh+jskQfndU/lvcTaHIOhJVwe4AuvYEgFbMz9yHj1dy9uv9WX2kRea5wIz0SZdctdUzh2usMkoA1f+BAKWgSumVCE8fCIN0mK5bE2wir9dHAUIjRwc/jS8YKwOhaSwcMhdV2IjsBgEXl1QgURPkDpca4J80Y064pwptB3VBZ+xN++/k8b1L5+/5ziD7OPAd7uRd+JZW62tyuU+wn6oMEqP6A79WNwGhjkkKQZsVonlh4kZevJkq2ByGRtbYk8odGLW47uqR/4KiinMILMVaCpTT9vr8E9P7fZurekKDlxR8mLn60t0zi2KBRBbkY33YUGVctJUgLGm8xh19ZGCVJX26PGTQ1WrDRy3KMT+rlB0J3t4gbgAPGXY+zZeM1Sw61agDyILvIepAO0gPCy4qWnlQUigLQcrEY4XbfgUJq1qbm7x04CDk02Wtet18E0g+OK98LNE8HbpDj8nk1FXGu/3qkPImtu0e/XvdePzvEHanxbF+G6BLECGcoEyvVbfBuAlZdqxznpSIcXM1DmEOagfYCqKfZ5ohKJQkERDPfb3yHhEXYtllJWGvsLGSuZGMqDuBGv+LuAKkWj+dxjtJ0M7zZuclKsD3Mtrlq4/rFSNj2ri7q9oJI+AowU=
+        selected: false
+        status: Unchecked
+      - offset: 1804
+        length: 49
+        placeholder_text: "pass # simulate random game from the current node"
+        initial_state:
+          length: 49
+          offset: 1804
+        initialized_from_dependency: false
+        encrypted_possible_answer: j83BrCPAMT0b7puo+f9iwes5p/L0aKnLZdRQ4vkwUNUM5DlkaKBWbIS1ehW6RzNGllJyU9EQ68dStdtkXajz7f3yUE1lgUSo8ujn/nHAmA/tMHgfHHE1roqqXxo/hODzVJc1Dritb+vVXOntwAW2qEdcGj8SiiS+yRUors0Q6xeKZvy5gMGRBTKvUE6J3HMNai4x0b8/PUgcHMY908zaLLgxOzGJJqkW+GEuh6WD6ZME5w3/kkcgKVBRSNPK8bTuSsGPtA8dLXGtVQnN41qfUs1ecpeNBpEZvbR9S+QlxchiYghDdbI5uabtp1I5PIVFRXMFjF1FrkbXPVy0iu6lHnO58G0p1rOqq6PFcqZ3YwI5hB9uVnyTSfFr5mFTfSItoPolZofy40JCh0nv/a4/dHMpCjp+k8uIca70TvRxIB9Zu5ntny3GIW/Kqz2YRaidUtmMVggUoQH/fjcrkpKFEyWf//aXVjGv59myR1BMzYLrDTmhLhbmXEUhTlDTigs6Z3yIQvL0Nno14cOOToZpBDYtcVVJkhcESyHOhbJaqcDJEPuQskKp/OtvPtxXxiQb6NkT6FLHkHy+Rn/P8sz20BXBhFr96/1grrG05PJivAR/pOBioe6byGZB9T8xoEr+D7we3INbV5x6yJBnD2R0EiwvXDUf+hK2reqL5PMHpvpMXh7FxsbTHDkmV+/OFTn/0rCIaAf5KZpdeThQ/3jdaYw5LwjN5rCZFB3gR3LLLtRj9UrcDgz7+2YGB7l41VvM0huFUgoqbtxB0xiCOXb1gNQp1wuZXvHMkBrhSS8188na5bKa4bHv1pYJnm9C1GEudKeYyJNZQ2ySv+DdW98Ez4J31b98Ne3rkAx1M9BlYotwIXmjRWfA0CJvJcFECkshL5GOKdmnQwHMuMgB8Bj1+j7ivFiQFYheYd44erTzxCdo6SjCZneQva2FhcSDMS4ujF4WYZMcrG+0GEwa/WGq8DDEQRu/Kp7RQGblAfRatPIb0S3wOnWbHbh/0DK5UjOypFFqsu/RS0Q/udfG7mkf/Ej1IQtJbt+ZsB0UAond/ReWa1kumn7tyiU7FwaRpQtV5hPN+r+nR6yro4rCNNl1GQ==
+        selected: false
+        status: Unchecked
+      - offset: 2019
+        length: 37
+        placeholder_text: "pass # implement backpropagation step"
+        initial_state:
+          length: 37
+          offset: 2019
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8kfgUOjJfEeF7bYFsHgUPSJbLK7nIze/kfevu5cjUgdhmMlHLRROz3BypaIOMxRx+H280wDDHHi9yXeS21gX9jd/58efq5sRBldJ99MupHsbbxK/HNxHfeVBbu6CMoJIMDtjlTd5AacEwFlrJPLwWyqPjpkXLaJR74QsosG81F0ezFbBt9RRFsWUNsVhfThbfMvYwbr/wF/8EPUy4MkrIwzetboui0YBGgRo79nh4dlpjX8JDyBboq+Qb2NAInKZ
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

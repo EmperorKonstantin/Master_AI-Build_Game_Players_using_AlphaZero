@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 2269
+        length: 40
+        placeholder_text: "pass # TODO: implement occupied checking"
+        initial_state:
+          length: 40
+          offset: 2269
+        initialized_from_dependency: false
+        encrypted_possible_answer: RW/qzla3Cl6zuF0GdjQE4hAqxZ3AEyhqCOmoF/H0kjinMbej1uUWsAACC886tCEJIbFk3J1pZ4QKuPhB9psLzdbg7Djh7bJHrmlfeH+viy56VqVxoWrIr2eBdmPN5M5tjaa53En01lCV8HkKBamfFgv67u/k5z2AOqC3aTOh1kq8Dcuow55KIz1X8aVF97NlcoU28TNp/UVs5B6Dg7FH89EyivKdh1PZlWGqF+fdvhbU6yE7PMedBteDkIIRXKhURHUy3O5d+VggOYFvXGSIsw==
+        selected: false
+        status: Unchecked
+      - offset: 2379
+        length: 38
+        placeholder_text: "pass # TODO: implement get_action_from"
+        initial_state:
+          length: 38
+          offset: 2379
+        initialized_from_dependency: false
+        encrypted_possible_answer: RW/qzla3Cl6zuF0GdjQE4hAqxZ3AEyhqCOmoF/H0kjinMbej1uUWsAACC886tCEJIbFk3J1pZ4QKuPhB9psLzUVkQ7pJ8yo/5S+EWEBq1N4X5PzIw94MV8VUHaoe3GnhUzJum+yxmbjVT/R9aru6+Y0I0B3TJOjEIF5hMFt/1WknqMujQ3TEtHCYGMJHXSuFU3XgsdzT4TYkt4h1sUnWeJiR/I07++izKFgPA4dnDp5JDcgYVc0dMuuvEWUHCuf21JqH5J93ddadFQtM2o0tdeEHVMZLTihOSzUCAEFfS/0=
+        selected: false
+        status: Unchecked
+      - offset: 2930
+        length: 40
+        placeholder_text: "pass # TODO: implement gameplay updating"
+        initial_state:
+          length: 40
+          offset: 2930
+        initialized_from_dependency: false
+        encrypted_possible_answer: RW/qzla3Cl6zuF0GdjQE4hAqxZ3AEyhqCOmoF/H0kji+2VQnUOySQYiEGGPyyu6T2HxAKTqjyystu6yJoc+6B5ja1qGstyJrraeqIuFEzQlq/OvBBvSxONzW49cMpRNTCa5RektsKO1Ms9RL7UKLKtyC/Kxy3cwYeSRPbEhORGJfH2/SFLT1Q63K6WUAdmgITJ0d2VjifMcse9eMW1GvGO/mcWGw9i8MzXhoqfq10XCWO1f8fUONMe0rLwMuTJLFraeiWYgauXol4Cw8Xk1eRjVRt8OrRYHqm1zWC9K0RXHrx0Ud5EGzYU8BA3+v67+JNaAoWI8jMP7BZJjkXuJ367vN3DvTWggMWbcRCxBNcR8p/5wLKoHqF3na8WcENL+lNGIY7CxNGBLAU+Dfq1pG1S5eaXio4/Wez4LG2ZOS0ihFI5vqv6LzDgKehn+8VFtiGGCV9PRaIKgSgY0VBkeWjR+l2YrHGnUsdhxakKDW5qeCphQCYdSKlzx777vF3xa6Ap2BUP/gpGbX5Rl8RODDkA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

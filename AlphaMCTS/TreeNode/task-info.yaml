@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1356
+        length: 128
+        placeholder_text: "pass # TODO: implement UCB score, accounting for child probability\
+      \ from the model and the border case with child.visit_count = 0"
+        initial_state:
+          length: 128
+          offset: 1356
+        initialized_from_dependency: false
+        encrypted_possible_answer: R9M1GRpTeJBFB0zGrvREACs+T2IsfyEPwAocgbF2+S82LBl27/CBvRlbDIi4iIBBFdBXpT5z58zS+JkR6KlBfu5xIOTQKA5dXJYVjrLwi6Wq48VUUgRssXI22Xb0qkENvuAbW9SfOf75S+37t4ShGTU7KMWx+bsi1t2PJpF1gv1K+TMmpo1oCiyqOKpx7gdpJv/f7nbOUfmWx2TbOnz+R9wpx4TDw5WYC3qwI7kVuBddiEFVQ76S503dU6UKcDKGrM5QvFBbKJcnqR1oJlA32W4CqrylqymGpf2h864lr/fkzPETwrXX8BxDLeKBo0aJ7qBdV5GuYXOg75QfVDntWktYOlfhurya6onpY//n6eMnF+azTouwCmIfgSqcoPA38QiQLK33XyrRqGhXQskJ+hXxdK0A8o49mNKK+HXTeYelrN0OJ78Od/KJnrj8BhxO
+        selected: false
+        status: Unchecked
+      - offset: 1524
+        length: 48
+        placeholder_text: "pass # TODO: expansion step for all the children"
+        initial_state:
+          length: 48
+          offset: 1524
+        initialized_from_dependency: false
+        encrypted_possible_answer: 50e0xd0flfOSLXb+yfpLknCAykjGaAxk09EZPMFlbc/pko+wf3wFw2tYEuscM2PmI/ElAfXIJSJy0dk4k18kmAz+cXcrqEnFHYWsE+L+t4qnNDY0ket4yazkopC+JsSu6oPSejeWZUb/90BIISnfpjDFWvgBzk+ExJ0+WY4ndU4ZfdOLvmpz6HIIthz3RR4jXXrzV5qYO4FUubJEOsgJSUe4HEl8v6O/t+9PGC//jrxEXX4ysx+eieuMk13QHaDzMD0qr2ztJwSfZ78chJdxxaWYVkagEjFrs8QbxXIPbwSEccBl8s4lfXwt8gQwbV0SfNP85siSP/dwCzcW8/7xa5hpYhsjcH7/u8QlDZHNCsP8P4QGyU7d1w3joxZ2+PTML135wdtrhmauI25HFgjS41KqHfMmep4++LNs90BCJraIrzg8bZKezPBmh5BN4wBpEvOzNNWHCjjTnZtyfXSnYffbORupV8lXjTj7LoEolrK4wmMD6WHEFJYaddxGNVSqvX3+DGo61+IgmvCEWGeG7v3PqqFxFQdq9ycc5cVJmM0LonOgngsyPYZ8CMxv6SKLfBQ54kDbltqKGlPk/wIcKA57PxCwYFEoHMwKUAaPW+kwge/+DFLCNwlGzlhzN/KR1awnYIxD0syMuYrAWiahXFGXRFDVxd/I4DN5zyv/aLDMYqkz9BcgYguivziRHL9jJOZU20hZu79odt1HhUePDh7y8x7MWEBkOGX8o591jtU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

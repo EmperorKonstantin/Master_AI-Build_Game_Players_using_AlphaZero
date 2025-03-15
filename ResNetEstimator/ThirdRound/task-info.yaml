@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 248
+        length: 143
+        placeholder_text: "pass # Implement model initialization with parameters `num_res_blocks\
+      \ = 4, num_hidden = 64` and apply it to get the value_item and policy_probs"
+        initial_state:
+          length: 143
+          offset: 248
+        initialized_from_dependency: false
+        encrypted_possible_answer: F0Tqr2l/c2Pn9pKEb2h+xBMXv1DbKIUMnQT8+r2DLv6295n0/6xnJ0b1QLg4ObfeNpvvkhY8w2ekz1pTx9ASO0pNnK3cMbBnwWTymOpVnDfnsIHgAKJVEQbpq93UPK6nAdrMlca+GIL1V5JF0xDT2khe4tUUhTrmqXskwFUIdjtvppD5d+V/gzkn6sqRBkl3Qe9C0TUftb8XQyr5rVljigdl7g+2emNlIgvxuxcNcRuEIiOg/RFhHnATHzM7EidlGXFSz+KjC+k3BnMbW3vjcVT/0bzZqnyjE24zhCj7v1nrObxcYi4n4Oe236LV09qBHNOFrZGc809YLCFofh+iU2dcpECS+5ZTRnlwpPvPvkkfPj9Y6S2X7oGQXAiwPVnVNtKPRrQ4CJsVYPufIko7xWvof/+i085FsU1P95N1o70Kto7K0LNbdyQXj9n63yoprwLG78+Jfphjx3C56r8qVdRwo5SJYf+jBth8kDY1fXexRjNUPd2Zn7zF/s2yj6RixPZ5oJWjx/dCZg8L2oxLjrYpdX4wBRgOreXx1BocQml8oK0drDC4tgRkDMvqnn0WK2ZSBax6sBmfdnn6FkCn+v9Ra7T5734zxupcLKXKDYhyLjOMicUZkSf2Q7IOPbXDCiIkF98JQ+rzI76IyAERUAXzDvQoF1YmCVBUUJf7RKVCGy/h/fj6nF8EFwL+el7ASJy9xsvIZ6SjWb+M3swjHUxFFcvwSOxDPqkTep+vWsc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

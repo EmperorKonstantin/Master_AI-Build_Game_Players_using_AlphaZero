@@ -1,0 +1,73 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 364
+        length: 31
+        placeholder_text: "# Print the list of valid moves"
+        initial_state:
+          length: 31
+          offset: 364
+        initialized_from_dependency: false
+        encrypted_possible_answer: wJgwmycf0GzEb+7CL0vcafjbaLePff35Wc+Gs0M6DbTM16tLDxbGy9U6H2RRkDlzEVYAwsvzcwswUbHQtcIAKSyA0gkUiwWxXkkwfEpcySKegLDnuhBM3GM2dUn3TgkNUDwqJMEQVwzXCukkOswxykNKas1FJsQi7iZuX3HsjjNPjNRcQrqiwDXIFYfZqyUBYMYLpfxRT/49M8JQJniICf9wf4K/0RhsmauA7YoASRuHE7VcOZtQ7Lc5xtVsq8wz
+        selected: false
+        status: Unchecked
+      - offset: 500
+        length: 95
+        placeholder_text: "# If action is not valid, print \"action not valid\" and exit\
+      \ the function with True return value"
+        initial_state:
+          length: 95
+          offset: 500
+        initialized_from_dependency: false
+        encrypted_possible_answer: qEZW7sjaZ/zs7/IMGgQVD9Rjf6RSZDliT5qXEud/ADOU4QygMZZkmGR3Lyv2/DNFUM2BNP99sPNT6rB4rvYoCMCj8wqVNSlV5+52K2oN9K6ZmZL2T+myumaaQnjtWWCK
+        selected: false
+        status: Unchecked
+      - offset: 636
+        length: 50
+        placeholder_text: "None # Update the board according to user's action"
+        initial_state:
+          length: 50
+          offset: 636
+        initialized_from_dependency: false
+        encrypted_possible_answer: boJm+2JUXgXAg2QAnufz9/0dS8hGydqADSS3aXzP8HvKKDMEEuO7gzg/CGzrL79Hi3u9/VC8X54KpTEdguLNVfiNTPoKIv+4gRzJyixfSsSw15dmhWEflKdofbmrCEXFm2FTquBNq9t/xzagIub46GMEv+BFFIThVjc996zD8cA=
+        selected: false
+        status: Unchecked
+      - offset: 820
+        length: 83
+        placeholder_text: "# Check the status of the game. Print the result and exit the\
+      \ function if game ends"
+        initial_state:
+          length: 83
+          offset: 820
+        initialized_from_dependency: false
+        encrypted_possible_answer: UeeowqHGVq9jyGT9Xc6YQD723Aqi8ZF8JGfpHgjRtYA0VJRIAT64yzkUxMRx1nnJ/w/x5Z8n8F/j/wrbUR0G5SLk2g/8auq2A56WJePHzOfGsXibOKFsOGqaWz3UKZf9xLQ/gXuzMhhtgdY4AKXUBovWeyB+4z29nXo+NiD5r2EozT5fKPlyDEh7qle+BvrcMiCPMEWW+8b4Q9tPu39zFsnRDzXDL42HGbHzOipSGtAtxKAYABCqx8PBygY1t4rJb8e7a3QUtdOLV4blmYxMG/Lp3KdJk4cFHRqECCaoLDHa+clRxkNFj0WkMT6kFgsKEeCKB2tz2hU51TGsDT9AGhLagbkCXNROhNkg+H1WmHMIDSpPb6SKwPmOK1igDASh
+        selected: false
+        status: Unchecked
+      - offset: 927
+        length: 68
+        placeholder_text: "None # Update player using get_opponent method and exit the\
+      \ function"
+        initial_state:
+          length: 68
+          offset: 927
+        initialized_from_dependency: false
+        encrypted_possible_answer: boJm+2JUXgXAg2QAnufz94TbwQZYp2Uyk5DN3D2zi14waZKYPQfL+EmilhAdhCtqy+ZmJ+APZoQ8kr13k3Csm3uNShfFriTrknaTRajBscA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

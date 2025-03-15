@@ -1,0 +1,54 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 764
+        length: 11
+        placeholder_text: "None # TODO"
+        initial_state:
+          length: 11
+          offset: 764
+        initialized_from_dependency: false
+        encrypted_possible_answer: VZJ977evbvLpJQWB6wjALArIuO95yIvudCapl/Xt44nZt1cbU3998ec1MHW3/0RUVn/F/VKgwc0DFVmRYlPVyz5nfnPU35W9HsQOin/bkcuVO0kUBjem6qVzG7akFIvyiRRkbvOs2YkD5Y+/PzM2HgsbgAcBkzbmT3jolGRos+tVjWhA4uP39xmJdPAV337Kbzzkj9eAvRy89uVv6O8c3g==
+        selected: false
+        status: Unchecked
+      - offset: 919
+        length: 11
+        placeholder_text: "None # TODO"
+        initial_state:
+          length: 11
+          offset: 919
+        initialized_from_dependency: false
+        encrypted_possible_answer: VZJ977evbvLpJQWB6wjALArIuO95yIvudCapl/Xt44m+cvdvENReJL2zMSYZ4igK+6UR0yKYmNHVESaO5HS2QO2RhYjqjD3tDidPINddux3zIUbiuCL1bTr8LHs0XfTR5M49Q7T5iiVNjmEIMex1BARglidNvibaKyBjpOVtlEzjztJe5OdNW/HgUaRCvRbxRfc4bVo/zmoBMf5ENPRQ6T19ihTaJn+dWU4U9rdfBNzZmSMYVoUTw9x7fkzlPzKDJY0xhm3D3XnSGY8mjorfHZztFBOrjN6RpbaJJT1t0wFwYsMWIJe7EdNijjx97fl1BtLWg37vc9xTNAxDoHoda2hqgqMQLvZtk3yNA5CKtIrNYSRqtgKhhEYDbZpXbDrK1SIvgnUyjl3GD6HA8Vt4ig==
+        selected: false
+        status: Unchecked
+      - offset: 957
+        length: 11
+        placeholder_text: "None # TODO"
+        initial_state:
+          length: 11
+          offset: 957
+        initialized_from_dependency: false
+        encrypted_possible_answer: VZJ977evbvLpJQWB6wjALArIuO95yIvudCapl/Xt44m+cvdvENReJL2zMSYZ4igKa505ruVjsvh/cnSuEp5hVSpYkQnso/7FUNkc2XQ21uUXZE9+5uZMnJfbdwic3dn5AfVBaEU7R6Z2Feke4nZIWo3AjyyZGvGtuvg79pbbhi+BU8UZwcnIXssgB88njYx59HDRIIncSMsoA9BVGkOLWlLpAKlf/rUjdAn3iN1I9z/eERSNtzWh8X6tgB1BsGeYPSWzdwyUDw+1vnD0j8NBRE4gqz0Q82r06SPdkKw11tIpZnh8NnyOq4ETzEIaTyuI+6WP7jklWdELAZJML8QLbw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: NNScheme.png
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

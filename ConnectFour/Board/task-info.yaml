@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1132
+        length: 45
+        placeholder_text: "pass # TODO: implement has_valid_moves method"
+        initial_state:
+          length: 45
+          offset: 1132
+        initialized_from_dependency: false
+        encrypted_possible_answer: SGZ5N9KCKTf81Pte0L5Qc89ff4NvcGKxMyLczvb3GUz1ZSCW2IX6JtdFL0v0G2ImzJ2c/dePBKtfOMfpaN2muA==
+        selected: false
+        status: Unchecked
+      - offset: 1218
+        length: 45
+        placeholder_text: "pass # TODO: implement get_valid_moves method"
+        initial_state:
+          length: 45
+          offset: 1218
+        initialized_from_dependency: false
+        encrypted_possible_answer: QT5dW2C7vRAFgGvVNlhNeMTCUVwC99HAgjw7+0c6Ov1v8hIevUFk66KjIpMPsT16
+        selected: false
+        status: Unchecked
+      - offset: 2505
+        length: 41
+        placeholder_text: "pass # TODO:implement execute_move method"
+        initial_state:
+          length: 41
+          offset: 2505
+        initialized_from_dependency: false
+        encrypted_possible_answer: CCzvAIG4vibsDXhzOoXOCl/miHqCPtkAjG86BXCjopZfQrgu8oPbZc2gz+K5hQuJsFQVm6Zh8UoR9YS2gmXCr05LX2pFKg/9BxO65I2tQ9h3os4n3elVHXwCYrEDVNvRh0OEnmUYoWVrokxRpx/Iq9vezan5AX2FFTKKy4g7x4k=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: tests/test_public.py
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
