@@ -47,7 +47,7 @@ class Board:
 
     def __setitem__(self, index, value):
         i, j = index
-        # Assign value to element with i,j index
+        self.pieces[i, j] = value
 
     @property
     def pieces(self):
