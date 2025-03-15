@@ -43,7 +43,7 @@ class Board:
 
     def __getitem__(self, index):
         i, j = index
-        return # Element with i,j index
+        return self.pieces[i ,j]
 
     def __setitem__(self, index, value):
         i, j = index
