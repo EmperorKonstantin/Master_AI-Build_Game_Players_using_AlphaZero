@@ -23,7 +23,8 @@ class Board:
         self._num_rows = num_rows
         self._num_cols = num_cols
         # Create an empty board (numpy 2-dimensional array)
-        self._pieces = None # Create numpy array with EMPTY elements
+        # Create numpy array with EMPTY elements
+        self._pieces = np.full((self._num_rows, self._num_cols), None)
 
     def get_board_size(self):
         return self._num_rows * self._num_cols
